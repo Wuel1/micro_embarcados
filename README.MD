@@ -1,6 +1,6 @@
-# Engenharia de Sistemas Embarcados - UFPE
+# Engenharia de Sistemas Embarcados - UFRPE
 
-Este repositório contém os códigos desenvolvidos durante a disciplina de Engenharia de Sistemas Embarcados, ministrada pelo professor Henrique Patriota na Universidade Federal de Pernambuco (UFPE).
+Este repositório contém os códigos desenvolvidos durante a disciplina de Engenharia de Sistemas Embarcados, ministrada pelo professor Henrique Patriota na Universidade Federal Rural de Pernambuco (UFRPE).
 
 ## Sobre o Repositório
 
